@@ -1,0 +1,29 @@
+body{
+    width: 100%;
+    margin: 0%;
+    /* overflow-x: hidden; */
+}
+
+.navbar-brand{
+    width: 150px;
+    height: 30px;
+}
+.navbar{
+    height: 80px;
+}
+.navbar-nav{
+
+    padding-left: 350px; 
+}
+.carousel{
+    width: 100%;
+}
+#zindex{
+    z-index: 1;
+    color: #595959;
+  
+}
+.row1{
+   
+    background-color: #595959;;
+}
