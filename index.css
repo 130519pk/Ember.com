@@ -1,7 +1,7 @@
 body{
     width: 100%;
     margin: 0%;
-    /* overflow-x: hidden; */
+    
 }
 
 .navbar-brand{
@@ -17,6 +17,7 @@ body{
 }
 .carousel{
     width: 100%;
+   
 }
 #zindex{
     z-index: 1;
@@ -27,3 +28,11 @@ body{
    
     background-color: #595959;;
 }
+.c1 {
+    background-color:  #595959;
+    height: 312.422px;
+}
+.im{
+    height: 7em;
+}
+
