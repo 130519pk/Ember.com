@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+    width: 100%;
+    
+}
+.btn{
+    background-color: #0CA6A1;
+    color: white;
+    border: 1.5px solid #e1061c;
+}
+.cc{
+
+    height: 500px;
+
+}
+.img{
+    width: 400px;
+    height: 100px;
+
+
+
+}
